@@ -1,4 +1,4 @@
-# Applied Security Demonstrations
+# Applied Cybersecurity Demonstrations
 
 ## Overview
 This project showcases hands-on implementations of applied security techniques, including cryptographic ciphers, network spoofing, and fuzz testing. It was developed to illustrate practical offensive security concepts and demonstrate the impact of software vulnerabilities.
